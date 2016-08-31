@@ -13,6 +13,8 @@
 
 - [Let's try-代表队 A2车联网 安卓端](https://www.github.com/isnine/Vehicle)
 
+- [根号三-代表队 A6文件传输](https://www.github.com/zhoubowen-sky/LingDong2.0)
+
 ## 收录方式
 > 如果你是中国软件杯的参赛选手，然后想将自己的参赛作品开源出来供大家学习，交流，共进，这里将是你一个很好的选择。我们希望更多的参赛选手能将自己的作品贡献出来，供大家学习，交流，共进。
 
