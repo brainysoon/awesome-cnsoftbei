@@ -1,5 +1,5 @@
 # 中国软件杯 作品集
-> 中国软件杯作品集开源协作项目旨：在收集整理开源的软件杯作品，以供大家学习，交流，共进。一切均非商业运用。
+> 中国软件杯作品集开源协作项目旨在：收集整理开源的软件杯作品，以供大家学习，交流，共进。一切均非商业运用。
 
 <img src="https://github.com/kensoon/awesome-cnsoftbei/blob/master/media/newcnsoft_01_01_02_01.jpg" alt="awesome-cnsoftbei">
 
