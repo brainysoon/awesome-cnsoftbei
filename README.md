@@ -21,6 +21,8 @@
 
 - [silence-代表队 解密陌生人](https://github.com/Coselding/Stranger)
 
+- [解密陌生人](https://github.com/zoulux/FindV2)
+
 - [室内交互式引导 安卓端](https://github.com/ClaymanTwinkle/findpath)
 
 ## 第三届 中国软件杯
