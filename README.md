@@ -19,6 +19,8 @@
 
 ## 第四届 中国软件杯
 
+- [室内交互式引导 安卓端](https://github.com/ClaymanTwinkle/findpath)
+
 ## 第三届 中国软件杯
 
 - [视频分析系统](https://github.com/cqswzqcj/MFCShowVideoTest)
