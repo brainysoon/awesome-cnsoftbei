@@ -9,7 +9,7 @@
 
 - [肥猫-代表队 A6文件传输 PC端](https://www.github.com/TeamFatCat/TransferForPC)
 
-- [红烧SRL-代表队 A2车联网 安卓端](https://www.github.com/brainylovely/cyberCar)
+- [红烧SRL-代表队 A2车联网 安卓端](https://www.github.com/brainysoon/cyberCar)
 
 - [Let's try-代表队 A2车联网 安卓端](https://www.github.com/isnine/Vehicle)
 
