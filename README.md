@@ -3,6 +3,10 @@
 
 <img src="https://github.com/kensoon/awesome-cnsoftbei/blob/master/media/newcnsoft_01_01_02_01.jpg" alt="awesome-cnsoftbei">
 
+## 第六届 中国软件杯
+
+- [四川大学-川行队 基于WIFI探针的商业大数据分析](https://github.com/wanghan0501/WiFiProbeAnalysis)
+
 ## 第五届 中国软件杯
 
 - [肥猫-代表队 A6文件传输 安卓端](https://www.github.com/TeamFatCat/Easy_Transfer)
