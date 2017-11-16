@@ -7,6 +7,7 @@
 
 - [四川大学-川行队 基于WIFI探针的商业大数据分析](https://github.com/wanghan0501/WiFiProbeAnalysis)
 - [Halo-代表队 企业增值税发票数据分析系统](https://github.com/brainysoon/EntTax)
+- [图片认知分类系统](https://github.com/codekongs/ImageClassify)
 
 ## 第五届 中国软件杯
 
